@@ -5,6 +5,7 @@ import Preload from '../screens/Preload';
 import SignIn from '../screens/SignIn';
 import SignUp from '../screens/SignUp';
 
+
 const Stack = createStackNavigator();
 
 export default () => (
